@@ -51,7 +51,10 @@ nav:
   - Directory / Rosters: directory.md
   - Activities - Overview: activities.md
   - Calendar: calendar.md
-  - Camping: camping.md
+  - Camping: 
+    - Weekend Campouts: weekend.md
+    - Summer Camp: summer.md
+    - Gear List: gearlist.md
   - Advancement: advancement.md
   - First Class Trail: fct.md
   - Youth Leadership: leadership.md
