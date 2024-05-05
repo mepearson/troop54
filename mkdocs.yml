@@ -1,0 +1,65 @@
+site_name: BSA Troop 54
+site_url: https://mepearson.github.io/Troop54/
+site_author: Troop 54
+site_description:  >-
+  Content related to BSA Troop 54 for Girls, St. John the Divine, Houston, Texas
+
+# Repository
+repo_name: mepearson/troop54
+repo_url: https://github.com/mepearson/troop54
+
+# Configuration
+theme:
+  name: material
+  # custom_dir: overrides
+  features:
+  #   - navigation.indexes
+  #   - navigation.tabs
+  #   - navigation.path
+  #   - navigation.instant
+  #   - navigation.instant.prefetch
+  #   - navigation.instant.progress
+  #   - navigation.top
+    - toc.integrate
+  font:
+    text: Open Sans
+    code: Roboto
+
+  palette: 
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode    
+  
+markdown_extensions:
+  - toc:
+      permalink: true  
+
+  # Page tree
+nav:
+  - About Troop 54: about.md
+  - Contact Us: contact.md
+  - Directory / Rosters: directory.md
+  - Activities - Overview: activities.md
+  - Calendar: calendar.md
+  - Camping: camping.md
+  - Advancement: advancement.md
+  - First Class Trail: fct.md
+  - Youth Leadership: leadership.md
+  - Joining Troop 54: joining.md
+  - Troop Handbook: handbook.md
+  - Troop Committee: committee.md
+  - Training: training.md
+  - Covid Policy: covid.md
+  - Links to BSA sites: bsa-links.md
+  - Troop Store: "https://shop.troop54houston.org/"
+  
