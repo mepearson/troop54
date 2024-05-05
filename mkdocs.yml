@@ -20,7 +20,7 @@ theme:
   #   - navigation.instant.prefetch
   #   - navigation.instant.progress
   #   - navigation.top
-    - toc.integrate
+    - toc.follow
   font:
     text: Open Sans
     code: Roboto
@@ -39,11 +39,16 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode    
-  
+
 markdown_extensions:
+  - attr_list
   - toc:
       permalink: true  
+      toc_depth: 3
 
+plugins:
+  - privacy
+  
   # Page tree
 nav:
   - About Troop 54: about.md
@@ -52,9 +57,9 @@ nav:
   - Activities - Overview: activities.md
   - Calendar: calendar.md
   - Camping: 
-    - Weekend Campouts: weekend.md
-    - Summer Camp: summer.md
-    - Gear List: gearlist.md
+    - Weekend Campouts: camping/weekend.md
+    - Summer Camp: camping/summer.md
+    - Gear List: camping/gearlist.md
   - Advancement: advancement.md
   - First Class Trail: fct.md
   - Youth Leadership: leadership.md
