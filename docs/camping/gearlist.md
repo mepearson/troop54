@@ -89,4 +89,4 @@
 All prescription and OTC medicine need be in original containers with dosage instructions, placed in a
 zip-lock bag, clearly labeled with the Scout’s name, emergency contact and doctor’s contact information.
 Campout specific medical officer will retain and dispense all daily / emergency meds.  
-- [ ] **Epi-pen or Asthma inhaler should stay with the Scout.**
+ **Epi-pen or Asthma inhaler should stay with the Scout.** 
