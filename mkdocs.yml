@@ -14,13 +14,15 @@ theme:
   # custom_dir: overrides
   features:
     - navigation.sections
-  #   - navigation.tabs
+    - navigation.tabs
+    - navigation.top
   #   - navigation.path
   #   - navigation.instant
   #   - navigation.instant.prefetch
   #   - navigation.instant.progress
   #   - navigation.top
     - toc.follow
+    # - toc.integrate
   font:
     text: Open Sans
     code: Roboto
@@ -50,6 +52,7 @@ markdown_extensions:
       toc_depth: 3
 
 plugins:
+  - blog
   - privacy
   
   # Page tree
@@ -63,12 +66,10 @@ nav:
     - Weekend Campouts: camping/weekend.md
     - Summer Camp: camping/summer.md
     - Gear List: camping/gearlist.md
-
   - Resources:
     - Contact Us: contact.md
     - Directory / Rosters: directory.md
     - Activities - Overview: activities.md
-    - Calendar: calendar.md
     - Joining Troop 54: joining.md
     - Troop Handbook: handbook.md
     - Troop Committee: committee.md
@@ -76,4 +77,7 @@ nav:
     - Covid Policy: covid.md
     - Links to BSA sites: bsa-links.md
     - Troop Store: "https://shop.troop54houston.org/"
+  - Calendar: calendar.md
+  - Blog:
+    - blog/index.md
   
