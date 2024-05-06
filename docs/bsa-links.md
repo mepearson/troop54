@@ -6,8 +6,8 @@ Troop 54 is affiliated with Pack 55 and Troop 55 and additional info can be foun
 
 |||
 | -------- | ------- |
-| Official BSA website | [www.scouting.org](www.scouting.org)|
-|Twin Bayou District | [www.twin-bayou.shac.org](www.twin-bayou.shac.org)|
-|Sam Houston Area Council | [www.samhoustonbsa.org](www.samhoustonbsa.org)|
-| Troop 55 | [www.troop55.org](www.troop55.org)|
-| Pack 55 | [www.pack55.org](www.pack55.org)|
+| Official BSA website | [www.scouting.org](https://www.scouting.org)|
+|Twin Bayou District | [www.twin-bayou.shac.org](https://www.twin-bayou.shac.org)|
+|Sam Houston Area Council | [www.samhoustonbsa.org](https://www.samhoustonbsa.org)|
+| Troop 55 | [www.troop55.org](https://www.troop55.org)|
+| Pack 55 | [www.pack55.org](https://www.pack55.org)|

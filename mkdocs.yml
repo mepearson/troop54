@@ -42,6 +42,9 @@ theme:
 
 markdown_extensions:
   - attr_list
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - toc:
       permalink: true  
       toc_depth: 3
