@@ -13,7 +13,7 @@ theme:
   name: material
   # custom_dir: overrides
   features:
-  #   - navigation.indexes
+    - navigation.sections
   #   - navigation.tabs
   #   - navigation.path
   #   - navigation.instant
@@ -52,22 +52,25 @@ plugins:
   # Page tree
 nav:
   - About Troop 54: about.md
-  - Contact Us: contact.md
-  - Directory / Rosters: directory.md
-  - Activities - Overview: activities.md
-  - Calendar: calendar.md
-  - Camping: 
+  - Youth Development:
+    - Youth Leadership: leadership.md
+    - Advancement: advancement.md
+    - First Class Trail: fct.md
+  - Outdoors Program: 
     - Weekend Campouts: camping/weekend.md
     - Summer Camp: camping/summer.md
     - Gear List: camping/gearlist.md
-  - Advancement: advancement.md
-  - First Class Trail: fct.md
-  - Youth Leadership: leadership.md
-  - Joining Troop 54: joining.md
-  - Troop Handbook: handbook.md
-  - Troop Committee: committee.md
-  - Training: training.md
-  - Covid Policy: covid.md
-  - Links to BSA sites: bsa-links.md
-  - Troop Store: "https://shop.troop54houston.org/"
+
+  - Resources:
+    - Contact Us: contact.md
+    - Directory / Rosters: directory.md
+    - Activities - Overview: activities.md
+    - Calendar: calendar.md
+    - Joining Troop 54: joining.md
+    - Troop Handbook: handbook.md
+    - Troop Committee: committee.md
+    - Training: training.md
+    - Covid Policy: covid.md
+    - Links to BSA sites: bsa-links.md
+    - Troop Store: "https://shop.troop54houston.org/"
   
