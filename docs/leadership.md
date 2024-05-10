@@ -11,7 +11,7 @@ Upon completion of each rank, the scout must complete a new [Leadership Agreemen
 - [Leadership Agreement form](https://www.troop54houston.org/downloads/POR_Leadership_Agreement.pdf)     (click to Download PDF)
  
 ---
-## Senior Patrol Leader and Assistant Senior Patrol Leaders
+## Senior Patrol Leader & Assistant Senior Patrol Leaders
 
 The Senior Patrol leader and all Assistant Senior Patrol Leaders can download the following documents for their use and guidance:
 - Senior Patrol Leader - Position of Responsibility, job description    [Download PDF](https://www.troop54houston.org/downloads/POR_Senior_Patrol_Leader.pdf) 

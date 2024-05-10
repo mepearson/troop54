@@ -8,10 +8,13 @@ site_description:  >-
 repo_name: mepearson/troop54
 repo_url: https://github.com/mepearson/troop54
 
+# Copyright
+copyright: Troop 54, Houston, TX
+
 # Configuration
 theme:
   name: material
-  # custom_dir: overrides
+  custom_dir: overrides
   features:
     - navigation.sections
     - navigation.tabs
@@ -42,6 +45,22 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode    
 
+
+# Plugins
+plugins:
+  - blog
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+
+
+
+# Additional configuration
+extra:
+  social:
+  - icon: fontawesome/brands/instagram
+    link: https://www.instagram.com/troop54houston
+
+# Extensions  
 markdown_extensions:
   - attr_list
   - def_list
@@ -50,12 +69,8 @@ markdown_extensions:
   - toc:
       permalink: true  
       toc_depth: 3
-
-plugins:
-  - blog
-  - privacy
   
-  # Page tree
+# Page tree
 nav:
   - About Troop 54: about.md
   - Youth Development:
