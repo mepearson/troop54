@@ -8,4 +8,4 @@ To access those videos, click HERE.
 
  
 
-Want to produce a FCT video?   T-54 Instructors and Troop Guides can click HERE for the procedure.
+Want to produce a FCT video?   T-54 Instructors and Troop Guides can click HERE for the procedure.mkdocs serve
