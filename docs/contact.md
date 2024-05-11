@@ -1,3 +1,8 @@
+---
+tags:
+  - Contacts
+---
+
 # Troop 54 Leadership Team
 
 |Position | Individual(s)|Phone| 

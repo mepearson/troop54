@@ -1,3 +1,8 @@
+---
+tags:
+  - FCT
+---
+
 # First Class Trail
 The Scouts at Troop 54 have produced videos to help with learning the skills required for the ranks of Scout, Tenderfoot, 2nd Class and 1st Class.
 

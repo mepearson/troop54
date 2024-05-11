@@ -36,21 +36,24 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: cyan
       toggle:
-        icon: material/brightness-7 
+        icon: material/eye 
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
-        icon: material/brightness-4
+        icon: material/eye-outline
         name: Switch to light mode    
 
 
 # Plugins
 plugins:
   - blog
+  - tags:
+      tags_file: tags.md
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
 
@@ -97,4 +100,5 @@ nav:
   - Calendar: calendar.md
   - Blog:
     - blog/index.md
+  - Tags Index: tags.md
   

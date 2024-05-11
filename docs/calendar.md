@@ -1,3 +1,7 @@
+---
+tags:
+  - Events
+---
 # Calendar
 
 <div>
