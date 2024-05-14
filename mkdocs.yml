@@ -14,7 +14,7 @@ copyright: Troop 54, Houston, TX
 # Configuration
 theme:
   name: material
-  custom_dir: overrides
+  # custom_dir: overrides
   favicon: assets/branding/favicon.png
   logo: assets/branding/bsa-logo.svg
   features:
@@ -36,6 +36,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: cyan
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
@@ -51,6 +52,8 @@ theme:
 # Plugins
 plugins:
   - blog
+  - tags:
+      tags_file: tags.md
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
 
@@ -74,7 +77,9 @@ markdown_extensions:
   
 # Page tree
 nav:
-  - About Troop 54: about.md
+  - About Troop 54: 
+    - About: about.md
+    - Old Home Page: upcoming.md
   - Youth Development:
     - Youth Leadership: leadership.md
     - Advancement: advancement.md
@@ -88,7 +93,7 @@ nav:
     - Directory / Rosters: directory.md
     - Activities - Overview: activities.md
     - Joining Troop 54: joining.md
-    - Troop Handbook: handbook.md
+    - Troop Handbook: Troop54-handbook.md
     - Troop Committee: committee.md
     - Training: training.md
     - Covid Policy: covid.md
@@ -97,4 +102,5 @@ nav:
   - Calendar: calendar.md
   - Blog:
     - blog/index.md
+  - Tags Index: tags.md
   

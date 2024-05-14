@@ -1,3 +1,8 @@
+---
+tags:
+  - Policies
+---
+
 # Covid Policy at Troop 54
 
 Troop 54 has a three-level plan for conducting the BSA program during Covid-19.  This is based on a Red, Yellow and Green phased system.  The current phase is re-visited by the Troop Committee regularly, and agreed based on circumstances at the time and guidance from relevant authorities.

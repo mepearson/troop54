@@ -1,3 +1,9 @@
+---
+tags:
+  - FCT
+  - Eagle
+---
+
 # Advancement
 
 Troop 54 utilizes the "Scoutbook" software system for tracking advancement, addresses, camping nights and scout's other information.  Each scout and her parents should have received instructions on how to access the Scoutbook system and view advancement reports.  To get further guidance on accessing the Scoutbook system or to have a copy of a scout's advancement report emailed to you, please contact our Troop 54 Advancement Chair at advancement@troop54houston.org.
