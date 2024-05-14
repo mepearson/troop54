@@ -13,14 +13,14 @@ is appreciated.
 These Fast Facts are from our Troop Handbook, we strongly encourage you
 to browse through the Handbook.
 
-**\"A game with a purpose\"**
+**"A game with a purpose"**
 
 Lord Baden‐Powell, founder of the Scouting movement, famously said that
-\"Scouting is a game with a purpose.\" In the words of Troop 54\'s
+"Scouting is a game with a purpose." In the words of Troop 54's
 mission statement, we view that purpose as helping Scouts (i) grow into
-\"responsible, compassionate, self‐reliant citizens of God\'s world\"
+"responsible, compassionate, self‐reliant citizens of God's world"
 who live by the Scout Oath and Scout Law, and (ii) have a lot of fun in
-the process. We place great emphasis on having a \"Scout‐led\" Troop.
+the process. We place great emphasis on having a "Scout‐led" Troop.
 
 Troop 54 serves girls aged 11 to 17. As with most average size scout
 troops, we expect to have between 30 to 60 registered Scouts organized
@@ -29,15 +29,15 @@ public and private schools and come from a variety of faiths.**
 
 **Whom to contact**
 
-A *Scout\'s* first point of contact with questions, concerns, etc.,
+A *Scout's* first point of contact with questions, concerns, etc.,
 should always be her Patrol Leader, or failing that, her Patrol
-Assistant Scoutmaster (\"PASM\"). A *parent\'s* first point of contact
-should be his or her daughter\'s PASM or, if a problem persists, the
+Assistant Scoutmaster ("PASM"). A *parent's* first point of contact
+should be his or her daughter's PASM or, if a problem persists, the
 Scoutmaster. (The Scoutmaster is usually ***very*** busy on Troop
 meeting nights, so if possible, please pick another time to speak to him
-about your daughter\'s advancement, etc.) For all summer camps, the
+about your daughter's advancement, etc.) For all summer camps, the
 single designated Scout Master / Trek Leader / Campmaster for that camp
-from Troop 54 is a *parent\'s* first point contact for issues related to
+from Troop 54 is a *parent's* first point contact for issues related to
 that trip. If you need further help, contact the Troop Committee Chair.
 
 **Use of email**
@@ -52,12 +52,12 @@ all registered participants up-to-date in ScoutBook.
 See the Uniforms section in this Troop Handbook. Uniform items and other
 Scouting items can be purchased at the Scout Shop, on the southeast
 corner of the North Loop (inside the loop) and East T.C. Jester, 2225 N
-Loop W. For placement of **patches**, see the BSA\'s official Insignia
+Loop W. For placement of **patches**, see the BSA's official Insignia
 Guide on the Web.
 
 **Troop meetings**
 
-The Troop\'s weekly meetings are on most Monday nights during the school
+The Troop's weekly meetings are on most Monday nights during the school
 year, at 7:00 pm in the Scout Room at The Church of St. John the Divine
 (Episcopal), our chartered organization at 2450 River Oaks Blvd. Scouts
 are NOT required to attend every weekly Troop meeting, but more is
@@ -113,22 +113,22 @@ shares with Troop 55.
 
 **Dues and expenses**
 
-Dues are \$196 per year per Scout. This covers the annual BSA
-registration fee (\$80, and the premium for BSA provided insurance
-(\$6), both paid directly to BSA and billed by BSA on an annual basis.
-This also includes the Troop operating fee (\$110) paid every calendar
+Dues are $196 per year per Scout. This covers the annual BSA
+registration fee ($80, and the premium for BSA provided insurance
+($6), both paid directly to BSA and billed by BSA on an annual basis.
+This also includes the Troop operating fee ($110) paid every calendar
 year to the Troop on the online store
 ([[[<https://shop.troop54houston.org/>](https://shop.troop54houston.org/)](https://shop.troop54houston.org/)](https://shop.troop54houston.org/)).
-New scouts pay an additional \$65 to the Troop to cover a T-54
+New scouts pay an additional $65 to the Troop to cover a T-54
 neckerchief, handbook, and other items upon joining. New scouts also pay
-an additional \$25 joining fee to BSA when initially joining. Registered
+an additional $25 joining fee to BSA when initially joining. Registered
 adult leaders are required to pay the BSA annual fees for registered
-adult leaders of \$66. In addition to dues, each Scout should expect to
-pay approximately the following: Uniform: \$80. Campouts: \$20 per
-campout for food, plus \$10 to \$15 per campout for travel meals,
-spending money, and sometimes \$20‐65 for bus transportation (special
+adult leaders of $66. In addition to dues, each Scout should expect to
+pay approximately the following: Uniform: $80. Campouts: $20 per
+campout for food, plus $10 to $15 per campout for travel meals,
+spending money, and sometimes $20‐65 for bus transportation (special
 activities such as canoeing, boating, shooting, etc., will have
-additional costs). Summer camp: Typically, \$400 to \$700 for a week of
+additional costs). Summer camp: Typically, $400 to $700 for a week of
 merit‐badge summer camp (**excluding transportation**). High‐adventure
 camps for older Scouts normally will cost more. 
 
@@ -141,7 +141,7 @@ more details).
 
 **Special needs Scouts**
 
-Make the Scoutmaster and your Scout\'s PASM aware of your daughter\'s
+Make the Scoutmaster and your Scout's PASM aware of your daughter's
 special needs.
 
 **Troop Committee**
@@ -153,16 +153,15 @@ attend.
 
 **Adult involvement**
 
-We need YOU! As with any troop, the \"official\" adult leaders can\'t
-possibly do it all. We have both \"outdoor\" and \"indoor\" adult jobs.
-We\'re friendly and supportive, we\'ll train you, and we absolutely,
-positively guarantee you\'ll have a great time. Experience shows that,
-**the more involved a Scout\'s parent is in the Troop\'s adult
+We need YOU! As with any troop, the "official" adult leaders can't
+possibly do it all. We have both "outdoor" and "indoor" adult jobs.
+We're friendly and supportive, we'll train you, and we absolutely,
+positively guarantee you'll have a great time. Experience shows that,
+**the more involved a Scout's parent is in the Troop's adult
 leadership**, the more likely the Scout is to remain in Scouting and
 someday **earn the rank of Eagle Scout.**
 
-**\
-**
+
 
 ## Active Participation
 
@@ -171,11 +170,11 @@ in the Scout Handbook) includes some requirement that the Scout be
 active in her troop and patrol. The BSA Guide to Advancement defines
 that "Active Participation" requires that:
 
-1\. The Scout is registered.
+1. The Scout is registered.
 
-2\. The Scout is in good standing.
+2. The Scout is in good standing.
 
-3\. The Scout meets the unit's reasonable expectations; or, if not, a
+3. The Scout meets the unit's reasonable expectations; or, if not, a
 lesser level of activity is explained.
 
 Set forth below are a set of guidelines outlining Troop 54's reasonable
@@ -186,8 +185,7 @@ As outlined in the Guide to Advancement, if a Scout falls below these
 minimum expectations, a special Board of Review will decide whether the
 Scout meets the requirement of participation in order to advance.
 
-**[Troop 54's minimum expectations for active
-participation:]{.underline}**
+**Troop 54's minimum expectations for active participation**
 
 -   For advancement to Scout, Tenderfoot, Second Class and First Class,
     active participation is specifically defined in the Scout Handbook.
@@ -240,9 +238,6 @@ To satisfy this requirement, a Scout must:
     both the Troop Activity and Overnight Outdoor Activity for a
     one‐month equivalent.
 
-```{=html}
-<!-- -->
-```
 -   For Eagle Palms, to satisfy this Active Participation requirement, a
     Scout must:
 
@@ -273,22 +268,22 @@ To satisfy this requirement, a Scout must:
 Adults wishing to serve in any leadership capacity in Troop 54 must
 register as BSA adult leaders. The BSA registration application is
 available online at <https://beascout.scouting.org>/. The application
-requires the applicant\'s Social Security number as well as contact
+requires the applicant's Social Security number as well as contact
 information for three references. It also includes a mandatory
 authorization for the Sam Houston Area Council to conduct a criminal
-background check. The Troop Committee Chair and the Troop\'s Chartered
+background check. The Troop Committee Chair and the Troop's Chartered
 Organization Representative are each required by BSA policy to review
 and approve all adult‐leader registration applications. BSA policy
-requires completion of Youth Protection Training (\"YPT\") with each new
+requires completion of Youth Protection Training ("YPT") with each new
 adult registration application. Registered adult leaders are required to
-pay the BSA annual fees for registered adult leaders of \$66.
+pay the BSA annual fees for registered adult leaders of $66.
 
 ## Adult Leader Training
 
 Troop 54 strongly encourages all parents to take the Scout leader basic
-training courses listed in the BSA document, \"What Makes a Trained
-Leader.\" This training helps all parents understand and assist in
-achieving the Troop\'s program and goals. NOTE: Youth Protection
+training courses listed in the BSA document, "What Makes a Trained
+Leader." This training helps all parents understand and assist in
+achieving the Troop's program and goals. NOTE: Youth Protection
 Training (YPT), which is one of these introductory courses, is
 **required** for all registered adult volunteers and especially any
 adult leader having direct contact with Scouts. YPT can be taken either
@@ -309,7 +304,7 @@ Scoutmaster and all Assistant Scoutmasters.
 See the Scout Handbook for the specific requirements to advance to each
 rank; those requirements are also available at the MeritBadge.org Web
 site. See also the BSA Guide to Advancement and the Advancement Policies
-handbook at MeritBadge.org. Scouting\'s advancement program is a
+handbook at MeritBadge.org. Scouting's advancement program is a
 *self‐paced* program. Parents should familiarize themselves with the
 advancement program, but it is essential that parents step back and
 allow their Scout to
@@ -317,7 +312,7 @@ allow their Scout to
 experience and learn from the safe failures, recoveries, and successes
 of the advancement program.
 
-**Advancement: The Scout\'s responsibility**
+**Advancement: The Scout's responsibility**
 
 Each Scout should set a specific target date for a Scoutmaster
 conference and then a board of review for her next rank, then **work
@@ -333,35 +328,34 @@ own Scout Handbook and on the Troop Web site,
 
 A Scout should follow these basic procedures for advancing in rank:
 
-1\. Meet the requirements for the advancement or award; have all
+1. Meet the requirements for the advancement or award; have all
 required spaces in her Scout Handbook signed by the appropriate adult
 leader(s). Unlike Cub Scouts, **parents do not sign off on their
-daughters\' advancement work.**
+daughters' advancement work.**
 
-2\. Make an appointment for a Scoutmaster conference. *The Scout herself
+2. Make an appointment for a Scoutmaster conference. *The Scout herself
 should do this, not the parent.*
 
-3\. Ask the Board of Review Coordinator, Advancement Chair or the Troop
+3. Ask the Board of Review Coordinator, Advancement Chair or the Troop
 Committee Chair to schedule a board of review. *The Scout herself should
 do this, not the parent.* When a Scout completes a requirement for rank
-advancement or a merit badge, it\'s her responsibility to make sure that
+advancement or a merit badge, it's her responsibility to make sure that
 her book (or merit‐badge card) is signed off by her PASM (or merit‐badge
 counselor). When a Scout advances to the next rank or completes a merit
 badge, the Advancement Chair records that in our electronic database. If
-a Scout completes a \"partial\" on a merit badge, that too will be
-recorded in our database. But to repeat, it is the Scout\'s
+a Scout completes a "partial" on a merit badge, that too will be
+recorded in our database. But to repeat, it is the Scout's
 responsibility to make sure this happens.
 
 **Advancement timetable (suggested)**
 
 Although the Scout advancement program is self‐paced, the following is
-Troop 54\'s suggested time frame for minimum time and experience for
+Troop 54's suggested time frame for minimum time and experience for
 rank advancement.
 
 **First Class:** 9 to 12 months active; one summer camp.
 
-**Star:** 12‐36 months active; two camps (summer camp or National Youth
-Leadership Training)
+**Star:** 12‐36 months active; two camps (summer camp or National Youth Leadership Training)
 
 **Life:** 3+ years active; two camps (summer camp or National Youth
 Leader Training) and one high adventure camp
@@ -377,24 +371,24 @@ Coordinator, Advancement Chair, or the Troop Committee Chair to arrange
 a time for a board of review, except for her board of review for the
 Eagle Rank. *(A board of review for Eagle rank is scheduled by the
 Troop's Chief Eagle Advisor after the Sam Houston Area Council has
-approved the Scout\'s Eagle Application. One member of the Eagle board
+approved the Scout's Eagle Application. One member of the Eagle board
 of review must be a representative of the Twin Bayou District from
 outside the Troop.)* All parents are encouraged to participate as
 members of boards of review, and can do so without any training. The
-Troop 54 board of review report form has sample \'interview\' questions
+Troop 54 board of review report form has sample 'interview' questions
 on the back.
 
-Another excellent source of questions is \"A Guide to Conducting Boards
-of Review\" by Ray Klaus. This is a good way for you to meet other
+Another excellent source of questions is "A Guide to Conducting Boards
+of Review" by Ray Klaus. This is a good way for you to meet other
 parents and find out things that are going on at campouts and troop
 meetings. *(Some parents complain that the extent of dialogue following
 a campout is something like this:*
 
-*Q: \"How was the campout?\" A: \"Fine.\" Participating in boards of
+*Q: "How was the campout?" A: "Fine." Participating in boards of
 review will help you know what is happening.)*
 
-For an overview of how to conduct a board of review, see \"Boards of
-Review\" at MeritBadge.org, based on the BSA publication Advancement
+For an overview of how to conduct a board of review, see "Boards of
+Review" at MeritBadge.org, based on the BSA publication Advancement
 Committee Policies and Procedures, ##33088B. Some key points:
 
 A board of review cannot be conducted until the Scoutmaster conference
@@ -405,12 +399,12 @@ members of the Troop Committee. ￼
 
 The Scout must present herself at the scheduled time *with her Scout
 Handbook properly signed* for the requirements for rank to which she is
-advancing. The Scout should be *in full \"Class A\" uniform.* Unless
+advancing. The Scout should be *in full "Class A" uniform.* Unless
 excused because of other circumstances approved by Scoutmaster or Board
 of Review chair. *The review is not an examination; the board does not
 re‐test the candidate.* The Scout should be asked where she learned her
 skill, who taught her, and the value she gained from passing this
-requirement. The Scoutmaster, the Scout\'s PASMs, and the Scout\'s
+requirement. The Scoutmaster, the Scout's PASMs, and the Scout's
 relatives and guardians *may not serve* as members of her board of
 review.
 
@@ -425,18 +419,18 @@ Form and gives it to the Troop Committee Chair or Advancement Chair.
 The Troop provides each new Scout with a Scout Handbook; if it gets
 lost, the Scout must purchase a replacement at the Scout Shop at her own
 expense. Each Scout should safeguard her Handbook by (i) clearly marking
-her name on the outside, and (ii) protecting it from \"the elements,\"
+her name on the outside, and (ii) protecting it from "the elements,"
 for example, with a cover available for purchase at the
 
 Scout Shop. The Handbook contains a wealth of practical information
 needed for advancement. Each Scout should carefully study the relevant
 section(s) of the Handbook when working on rank advancement.
 
-A Scout\'s advancement is recorded in the pages at the back of her
+A Scout's advancement is recorded in the pages at the back of her
 Handbook. *Each Scout is responsible* for asking the Scoutmaster (or
 his/her assistants) to sign her Handbook as soon as she completes any
-requirement. Even though advancement data is entered into the Troop\'s
-electronic Scoutbook.com database, **the Scout\'s Handbook is the
+requirement. Even though advancement data is entered into the Troop's
+electronic Scoutbook.com database, **the Scout's Handbook is the
 official and primary advancement record** and should be safeguarded in
 case of database problems**.** Before each campout or advancement
 session a Scout should photocopy all signed advancement pages of her
@@ -446,7 +440,7 @@ Handbook in case the Handbook gets lost.
 
 The buddy system for Scout activities is very simple: *Never leave your
 buddy nor let her leave you.* If the buddy system is good enough for
-Navy SEALs, it\'s good enough for us. The buddy system should be used:
+Navy SEALs, it's good enough for us. The buddy system should be used:
 
 • for all water activities;
 
@@ -454,7 +448,7 @@ Navy SEALs, it\'s good enough for us. The buddy system should be used:
 
 • if separating from the main group when traveling.
 
-If you get caught without your buddy at a \"buddy check,\" there will be
+If you get caught without your buddy at a "buddy check," there will be
 consequences. For example, if you are swimming, both you and your buddy
 will have to get out of the water for a while. The buddy system for
 merit badge work is slightly different; see that section for more
@@ -462,7 +456,7 @@ details.
 
 ## Campouts
 
-**Troop 54\'s weekend campout program**
+**Troop 54's weekend campout program**
 
 The Troop camps at least three times per semester (in addition to summer
 camps). Each campout is organized around a program theme, for example:
@@ -487,16 +481,16 @@ strongly encouraged to take as many Scouts with them as possible*
 to Safe Scouting, we do not travel in convoys. The Troop trailers are
 pulled by an adult driver.
 
-**Campout food (\"grub\")**
+**Campout food ("grub")**
 
-Both Scouts and adults (the \"Goat Patrol\") cook by patrols. Each
-patrol\'s designated grubmaster for the campout is responsible for
+Both Scouts and adults (the "Goat Patrol") cook by patrols. Each
+patrol's designated grubmaster for the campout is responsible for
 planning the weekend menu, buying food, and supervising the cooking.
 Goats should plan to model good camping practices by cooking foods that
 Scouts could cook with their standard patrol gear. If a Scout or adult
 signs up for a campout and food is purchased, the Scout or adult is
 responsible for the grub fee even if he or she ends up not attending the
-campout. **TIP:** Before your new Scout\'s first campout, have her do
+campout. **TIP:** Before your new Scout's first campout, have her do
 some cooking **and clean‐up** at home (ideally, together with her
 patrol); that will make it easier for her (or them) to cook and clean up
 at their first campout.
@@ -506,7 +500,7 @@ at their first campout.
 Everyone works at a campout, Scouts and adults alike. Each Patrol Leader
 designates individual Scouts to be in charge of planning patrol menus,
 collecting money, arranging transportation, preparing equipment, buying
-food (\"grubmaster\"), cooking and clean up. Every patrol, including the
+food ("grubmaster"), cooking and clean up. Every patrol, including the
 Goats, should have a duty roster covering the entire campout weekend.
 
 **Campout schedule**
@@ -514,7 +508,7 @@ Goats, should have a duty roster covering the entire campout weekend.
 The typical schedule for campouts is approximately as follows:
 
 • **Friday night:** Arrive at the campsite, set up camp, have a snack
-(\"cracker barrel\").
+("cracker barrel").
 
 • **Saturday:** Breakfast. Morning activities. Lunch. Afternoon
 activities. Free time / advancement work. Dinner. Campfire.
@@ -529,7 +523,7 @@ Each Scout is responsible for her personal gear; see the list of
 recommended personal gear. Troop 54 provides shared patrol gear,
 including lanterns, stoves and cooking equipment, for each patrol. A
 Patrol Quartermaster (Patrol QM) (who is a Scout) is responsible for her
-patrol\'s cooking gear (action packer) on each campout. Generally, that
+patrol's cooking gear (action packer) on each campout. Generally, that
 Scout will bring home this gear from the Troop meeting the Monday before
 the campout. The Patrol QM should check for missing items, and clean the
 gear if needed. The Patrol QM will also return home with this gear after
@@ -561,26 +555,26 @@ the Uniform section on this Handbook for more details*
 the location designated for their patrol. Sharing of tents by Scouts
 within a patrol is encouraged. **Adults do not share tents with Scouts,
 including their own daughters, and generally avoid the area of their own
-daughter\'s patrol.** Adults (the \"Goat Patrol\") ordinarily will camp
+daughter's patrol.** Adults (the "Goat Patrol") ordinarily will camp
 in their own designated campsite. On some occasions, two to three adults
 (PASMs) will be assigned to camp with each Scout patrol, but not with
 the patrols of their own daughters.
 
-**Stay out of other patrols\' areas:** Scouts should request permission
-before entering another patrol\'s campsite. Adults should request
-permission before entering any Scout patrol site (except that patrol\'s
+**Stay out of other patrols' areas:** Scouts should request permission
+before entering another patrol's campsite. Adults should request
+permission before entering any Scout patrol site (except that patrol's
 PASMs, who camp with the patrol). Adults should discourage Scouts from
 being in the Goat area unless they have a specific need to be there.
 
-**Hands off:** Don\'t touch someone else\'s equipment, tent, or
-belongings, unless you have the owner\'s prior permission.
+**Hands off:** Don't touch someone else's equipment, tent, or
+belongings, unless you have the owner's prior permission.
 
 **Everyone works:** All Scouts and adults are expected to do their share
 of patrol duties in accordance with the duty roster.
 
 **Keep the campsite squared away:** All campers are to continually keep
 shipshape their tents, personal gear, and patrol‐ and troop gear. The
-entire Troop assembles for a \"clean sweep\" of the camping area at the
+entire Troop assembles for a "clean sweep" of the camping area at the
 end of each campout.
 
 **Fire safety:** Scouts may build and light ground fires (cooking and
@@ -623,7 +617,7 @@ necessary and as prescribed by BSA's Hazardous Weather training (which
 is required for all Assistant Scoutmasters and Scoutmasters).
 
 **Lights Out:** All Scouts are to be inside their tents at 10 pm (or
-otherwise at the Scoutmaster\'s or Campmaster\'s discretion). Lights
+otherwise at the Scoutmaster's or Campmaster's discretion). Lights
 will be out and talking will stop by 10:30 pm. No Scout should leave her
 tent (except for brief trips to the latrine or to report illness or
 other emergency) until reveille the next morning.
@@ -639,12 +633,12 @@ area without the express permission of the Scoutmaster or Campmaster,
 and must check out with the Campmaster just before departure. Unless a
 Scout has an urgent need to leave early, and has been excused by the
 Senior Patrol Leader (SPL) and Scoutmaster, all Scouts are to remain in
-camp until dismissed by their Patrol Leader after the Troop\'s \"clean
-sweep\" of the campsite.
+camp until dismissed by their Patrol Leader after the Troop's "clean
+sweep" of the campsite.
 
-**No alcoholic beverages** (it\'s BSA policy) **or illegal drugs**
-(it\'s the law). **Tobacco** **use** by adults is strongly discouraged
-(it\'s BSA policy), and by Scouts is **prohibited** (it\'s the law).
+**No alcoholic beverages** (it's BSA policy) **or illegal drugs**
+(it's the law). **Tobacco** **use** by adults is strongly discouraged
+(it's BSA policy), and by Scouts is **prohibited** (it's the law).
 
 **No non‐Troop** **54 siblings / youth:** Non‐Scout siblings are not
 welcome on campouts. Their presence tends to detract from the program
@@ -671,7 +665,7 @@ necessary.
 
 Scouts should strive to bring the **minimum** gear necessary to a
 campout, and to pack it so that all gear can be carried by the Scout to
-her patrol\'s campsite in a **single** trip. Print out the list below
+her patrol's campsite in a **single** trip. Print out the list below
 and use it as a checklist for each campout. The Scout Handbook also has
 helpful information on camping and camping gear, especially its list of
 Outdoor Essentials that should be taken on any hike or other activity.
@@ -684,7 +678,7 @@ the Handbook gets lost)
 campout and at flags; wear the Activity (Class B) uniform the rest of
 the time
 
-􀂅 Sleeping bag --- should be \"backpackable,\" with a stuff sack, and
+􀂅 Sleeping bag --- should be "backpackable," with a stuff sack, and
 sufficient for 20‐degree weather, e.g., at Enchanted Rock
 
 􀂅 Ground pad for sleeping bag, or inflatable Thermarest®
@@ -702,7 +696,7 @@ to carry a minimum of 2 liters)
 􀂅 Reusable cup, plate/bowl, knife, fork and spoon -- the Troop does not
 use paper plates, plastic utensils, etc., except on rare occasions
 
-􀂅 Folding knife (up to 4\" blade; no sheath knives)
+􀂅 Folding knife (up to 4" blade; no sheath knives)
 
 􀂅 Sturdy rain jacket and pants --- ponchos do not provide sufficient
 protection, especially in wet winter weather
@@ -723,7 +717,7 @@ repellent and sunscreen)
 
 􀂅 Synthetic t‐shirts or shirts \*
 
-􀂅 Extra underwear, including synthetic \"long johns\" for cold‐weather
+􀂅 Extra underwear, including synthetic "long johns" for cold‐weather
 camping.\*
 
 􀂅 Synthetic fleece jacket or pullover \*
@@ -737,7 +731,7 @@ zip‐offs are best \*
 appropriate clothing for activity
 
 *\* Parents please note:* Cotton clothing is a very poor choice for
-camping; it\'s bulky, cold and slow to dry when wet, which can
+camping; it's bulky, cold and slow to dry when wet, which can
 contribute to hypothermia. Layers of quick‐drying synthetics such as
 Supplex®, are much better. Polartec®, or a similar synthetic fleece, is
 excellent for layering and remains warm even when wet.
@@ -754,9 +748,9 @@ for details.
 
 Scout troops do not exist in a vacuum. Every troop is sponsored by a
 church or other community organization that has been granted a one‐year
-charter by the Boy Scouts of America (\"BSA\"). Troop 54\'s chartered
+charter by the Boy Scouts of America ("BSA"). Troop 54's chartered
 organization is The (Episcopal) Church of **St. John the Divine**, often
-referred to as \"SJD.\" The church received its first BSA charter for
+referred to as "SJD." The church received its first BSA charter for
 boy Troop 55 shortly after the parish was established in 1939 -- the
 Troop itself actually pre‐dates the parish -- and has been continuously
 rechartered since that time. Troop 54 was chartered for girls in
@@ -775,8 +769,8 @@ periodically throughout the year. The Court of Honor provides an
 opportunity for Scouts to be acknowledged for their work. At a Court of
 Honor, each advancing Scout will receive a card for each rank
 advancement and merit badge. This proves receipt of the award --- if
-other records are lost or incorrect, these cards could be the Scout\'s
-last‐resort way of verifying her advancement. It\'s a good idea to
+other records are lost or incorrect, these cards could be the Scout's
+last‐resort way of verifying her advancement. It's a good idea to
 collect and store these cards in a safe place in the unlikely event of
 other records being lost or incomplete.
 
@@ -818,8 +812,8 @@ Scout with a way to earn some or all of her camp expenses.
 **Friends of Scouting annual campaign**
 
 Troop 54 will participate in this fundraising campaign each winter to
-support the Sam Houston Area Council (\"SHAC\"). Contributions are
-entirely voluntary but strongly encouraged. None of a Scout\'s troop
+support the Sam Houston Area Council ("SHAC"). Contributions are
+entirely voluntary but strongly encouraged. None of a Scout's troop
 dues goes to SHAC. For many years, parents and friends of Troop 55 have
 generated larger contributions than any other troop in the Twin Bayou
 District. Troop 54 will be justly proud of its philanthropic culture of
@@ -828,13 +822,13 @@ supporting Scouting in the Houston area.
 ##  Goat Patrol
 
 At campouts and Troop meetings, all adults present, other than the
-Scoutmaster and Assistant Scoutmasters, comprise the \"Old Goats\"
+Scoutmaster and Assistant Scoutmasters, comprise the "Old Goats"
 Patrol, which is headed by the Troop Committee Chair or his or her
 designee (at campouts, that will often be the Goat Grubmaster).
 
 The Goats are expected to operate by the patrol method, in part to serve
 as a model for Scout patrols, and in part because the patrol method
-works very well. See also the discussion in the \"Troop meetings\"
+works very well. See also the discussion in the "Troop meetings"
 section of this Handbook about the need for the Goats to stay out of the
 Troop meeting per se.
 
@@ -842,27 +836,27 @@ Troop meeting per se.
 
 Scouts who take medications should do so during Troop activities,
 including campouts and summer camp. We know from experience that Scouts
-who don\'t take their meds may well cause problems for themselves as
+who don't take their meds may well cause problems for themselves as
 well as for other Scouts and adult leaders.
 
-Parents should regularly update their Scouts\' medical forms with all
+Parents should regularly update their Scouts' medical forms with all
 meds being taken or prescribed. Before departure for a campout, etc.,
-each such Scout\'s parent should give the Scout\'s meds to the duty
+each such Scout's parent should give the Scout's meds to the duty
 Health and Safety Officer (HSO) in a plastic bottle clearly labeled with
-the Scout\'s name and dosage information. (The duty HSO might, but might
+the Scout's name and dosage information. (The duty HSO might, but might
 not, be a physician, nurse, etc.) The HSO, in consultation with the
 campmaster and PASMs, will decide how best to administer the meds. For
 example:
 
 • At Enchanted Rock, where patrols (except new Scouts) backpack out to
-different sites in \"the back country,\" the HSO likely will give a
-Scout\'s meds to one of the PASMs who will be with that Scout\'s patrol.
+different sites in "the back country," the HSO likely will give a
+Scout's meds to one of the PASMs who will be with that Scout's patrol.
 
 • At a merit‐badge summer camp where the whole Troop contingent camps
 together, the HSO might decide to administer all meds him‐ or herself at
-a series of Troop‐wide \"pill calls.\" No Scout should share any
-prescription medication with any other person *(it\'s against the law),*
-nor any other medication without permission of both Scouts\' parents.
+a series of Troop‐wide "pill calls." No Scout should share any
+prescription medication with any other person *(it's against the law),*
+nor any other medication without permission of both Scouts' parents.
 
 ## Meetings (Troop)
 
@@ -884,12 +878,12 @@ order, quiet, and attention, and should be observed by both Scouts and
 adults.
 
 The Senior Patrol Leader (SPL) or one of her assistants might schedule
-different patrols to act as \"service patrols\" for Troop meetings. The
+different patrols to act as "service patrols" for Troop meetings. The
 service patrol typically sets up the Scout Room for the meeting;
 conducts the flag ceremony at the beginning of the meeting; and puts
 gear away after the meeting.
 
-While any parent may observe the parent\'s Scout at any Troop activity,
+While any parent may observe the parent's Scout at any Troop activity,
 our Scouts have consistently expressed the view that **adults should
 stay out of the Troop meeting per se.** The Troop strongly encourages
 parents who are not Assistant Scoutmasters (PASM)to instead attend adult
@@ -897,7 +891,7 @@ information and training sessions and visit with other adults outside
 the Scout Room.
 
 Any PASM or other adult who sits in on a Troop meeting should **take a
-seat** in the back of the room -- don\'t stand or walk around in the
+seat** in the back of the room -- don't stand or walk around in the
 room -- and **remain quiet**.
 
 ## Merit Badges (for Scouts, parents, and adult leaders)
@@ -1313,8 +1307,8 @@ Merit badge counselors are not required to pay an adult leader
 registration fee if they are only registered as merit badge counselors.
 
 Merit badge counselors must complete the Youth Protection Training
-course, either online or in person, and should also complete the \"This
-is Scouting\" online training; see the *Training for Adult Leaders*
+course, either online or in person, and should also complete the "This
+is Scouting" online training; see the *Training for Adult Leaders*
 section of this Handbook for more details.
 
 An older Scout (who is by definition not yet 18 years old) may assist an
@@ -1468,7 +1462,7 @@ satisfactorily completed each requirement.
 **Troop 54:** Troop 54 is an open organization with exceptional
 resources dedicated to instilling in girls the values of the Scout Oath
 and Law. Our mission is to help girls become responsible, compassionate,
-self‐reliant citizens of God\'s world.
+self‐reliant citizens of God's world.
 
 **Sam Houston Area Council:** Leading Youth to Lifelong Values, Service
 and Achievement.
@@ -1500,106 +1494,106 @@ long‐term camp consisting of six consecutive days and five nights of
 resident camping, approved and under the auspices and standards of the
 Boy Scouts of America. The balance of the camping must be overnight,
 weekend, or other short‐term camps. More information on the OA can be
-obtained by contacting the Troop\'s OA advisor or liaison, or by
+obtained by contacting the Troop's OA advisor or liaison, or by
 visiting the lodge website at
 [www.colonneh.org](http://www.colonneh.org).
 
-## \"Org charts\"
+## "Org charts"
 
 **Troop 54 org chart**
 
 • **Scouts** are organized into patrols, each headed by a **Patrol
-Leader** (\"PL\"), a Scout who is elected by the other Scouts in the
+Leader** ("PL"), a Scout who is elected by the other Scouts in the
 patrol. New‐Scout patrols are coached by two older‐Scout **Troop
 Guides** appointed by the Scoutmaster.
 
-• The **Senior Patrol Leader** (\"SPL\"), a senior Scout, is the \"head
-Scout\" of the Troop. She is elected at‐large by all Scouts in the
-Troop. With the Scoutmaster\'s approval, the SPL appoints one or more
-**Assistant Senior Patrol Leaders** (\"ASPLs\").
+• The **Senior Patrol Leader** ("SPL"), a senior Scout, is the "head
+Scout" of the Troop. She is elected at‐large by all Scouts in the
+Troop. With the Scoutmaster's approval, the SPL appoints one or more
+**Assistant Senior Patrol Leaders** ("ASPLs").
 
-• The Patrol Leaders\' Council (\"Greenbar\") consists of the SPL; the
+• The Patrol Leaders' Council ("Greenbar") consists of the SPL; the
 ASPLs; the PLs; and other Scout officers such as the Troop
 Quartermaster, Librarian, etc.
 
 • **Adult oversight** is provided by the Scoutmaster and Assistant
 Scoutmasters, especially the Patrol Assistant Scoutmasters, all of whom
-are appointed by the Troop\'s chartered organization with input from the
+are appointed by the Troop's chartered organization with input from the
 Troop Committee.
 
 **BSA org chart**
 
 • Troop 54, is a Scouts BSA Troop (for girls 11 to 17) chartered to St.
-John the Divine Episcopal Church (\"SJD\"), the chartered organization,
+John the Divine Episcopal Church ("SJD"), the chartered organization,
 is part of ...
 
 • The Twin Bayou District, which is part of ...
 
-• The Sam Houston Area Council (\"SHAC\"), which is part of ...
+• The Sam Houston Area Council ("SHAC"), which is part of ...
 
 • The Southern Region, which is part of ...
 
 • The Boys Scouts of America National office
 
-## Patrol Assistant Scoutmasters (\"PASMs\")
+## Patrol Assistant Scoutmasters ("PASMs")
 
 *\[See also Scoutmaster and Assistant Scoutmasters.\]*
 
 Most patrols in Troop 54, especially those with younger Scouts, have one
-or two specially designated \"*Patrol Assistant Scoutmasters*\" or
-\"**PASMs**\" assigned to work with them.
+or two specially designated "*Patrol Assistant Scoutmasters*" or
+"**PASMs**" assigned to work with them.
 
-PASMs are not assigned to their own daughters\' patrols; this is so
+PASMs are not assigned to their own daughters' patrols; this is so
 Scouts can learn from other adults, and to maximize *Scout* (rather than
 adult) leadership.
 
-Typically, there is a \"lead\" experienced PASM, with other PASM\'s
-working as a team. The role of the PASM\'s is described below.
+Typically, there is a "lead" experienced PASM, with other PASM's
+working as a team. The role of the PASM's is described below.
 
 **PASM duties with the patrol**
 
-1\. Supervise Patrol Leader elections, and encourage a democratic
+1. Supervise Patrol Leader elections, and encourage a democratic
 election of a Patrol Leader.
 
-2\. Advise the Patrol Leader and hold her accountable.
+2. Advise the Patrol Leader and hold her accountable.
 
-> a\. Help her to remember to attend all the Patrol Leaders Council
+> a. Help her to remember to attend all the Patrol Leaders Council
 > (PLC) meetings. If she cannot attend, help her assure that the
 > Assistant Patrol Leader or another patrol Scout attends.
 >
-> b\. Help her to establish a telephone tree, group chat, etc for
+> b. Help her to establish a telephone tree, group chat, etc for
 > contacting all Scouts in the patrol.
 
-3\. Assist the Patrol Leader in holding accountable the other Scouts in
+3. Assist the Patrol Leader in holding accountable the other Scouts in
 the patrol, including advising her on her appointments of Assistant
 Patrol Leaders, etc.
 
-4\. For patrols of inexperienced Scouts, make use of Troop Guides to
+4. For patrols of inexperienced Scouts, make use of Troop Guides to
 advise the Patrol Leader, and advise the Scoutmaster regarding the Troop
-Guide\'s performance in this important leadership position.
+Guide's performance in this important leadership position.
 
-5\. Help the Patrol to prepare meaningful and interesting programs for
+5. Help the Patrol to prepare meaningful and interesting programs for
 the Troop whenever the Patrol is assigned to be the program patrol.
 
-6\. Help the Patrol to carry out its duties when assigned as the service
+6. Help the Patrol to carry out its duties when assigned as the service
 patrol. Remember:
 
-> a\. cleanup of Scout Room after troop meetings;
+> a. cleanup of Scout Room after troop meetings;
 >
-> b\. assuring all Scouts in the Troop have rides home from the meeting.
+> b. assuring all Scouts in the Troop have rides home from the meeting.
 > (Get a parent of a Scout in the Patrol to help with this.)
 
-7\. Help the Patrol organize to conduct flag ceremonies and meeting
+7. Help the Patrol organize to conduct flag ceremonies and meeting
 openings.
 
-8\. Establish a fixed location for the patrol to hold its patrol
+8. Establish a fixed location for the patrol to hold its patrol
 meetings during Troop meetings.
 
-9\. Conduct, or help prepare for, Scoutmaster conferences as a critical
+9. Conduct, or help prepare for, Scoutmaster conferences as a critical
 part of the advancement process:
 
-> a\. *Scout through First Class Ranks*: Under the direction of the
-> \"lead\" PASM, a patrol\'s PASM\'s conduct all Scoutmaster conferences
+> a. *Scout through First Class Ranks*: Under the direction of the
+> "lead" PASM, a patrol's PASM's conduct all Scoutmaster conferences
 > for Scouts in the Patrol seeking advancement up through rank of First
 > Class. Use the Scoutmaster conference to motivate Scouts for
 > advancement, praise and critique their performance, hold them
@@ -1608,7 +1602,7 @@ part of the advancement process:
 > regular troop and patrol activities, and active participation
 > requirements.
 >
-> b\. *Star through Eagle Ranks*: Conduct a \"pre‐conference\" with
+> b. *Star through Eagle Ranks*: Conduct a "pre‐conference" with
 > Scouts in your patrol seeking advancement to Star‐ through Eagle
 > ranks. Review with them the requirements for advancement --
 > particularly fulfillment of their leadership position, Scout Spirit,
@@ -1616,71 +1610,71 @@ part of the advancement process:
 > Then send them for their Scoutmaster conference to the Scoutmaster or
 > his designee.
 
-10\. When necessary, help the Patrol Leader maintain sufficient order
+10. When necessary, help the Patrol Leader maintain sufficient order
 during Patrol and Troop meetings.
 
-11\. Sit with the Patrol during Troop meetings and encourage other
-PASM\'s assigned to the Patrol to do likewise.
+11. Sit with the Patrol during Troop meetings and encourage other
+PASM's assigned to the Patrol to do likewise.
 
-12\. Encourage Patrol events/activities independent of the Troop, to
+12. Encourage Patrol events/activities independent of the Troop, to
 build Patrol spirit (e.g. a movie, game, or other activity).
 
-13\. Using advanced Scouts and Troop Guides, teach First Class
+13. Using advanced Scouts and Troop Guides, teach First Class
 Advancement to Scouts not yet First Class.
 
-14\. Teach the Troop Camping Rules to patrol members and encourage
+14. Teach the Troop Camping Rules to patrol members and encourage
 compliance with those rules.
 
-15\. Privately discuss advancement, medical, and any disciplinary issues
-with parents of patrol Scouts, the Troop\'s Health and Safety Officer,
+15. Privately discuss advancement, medical, and any disciplinary issues
+with parents of patrol Scouts, the Troop's Health and Safety Officer,
 and/or the Scoutmaster.
 
-16\. Assist in selection of other Assistant Scoutmasters to work with
+16. Assist in selection of other Assistant Scoutmasters to work with
 your Patrol. Help train these adults to take over your job by next year!
 Encourage other adults to enroll in Boy Scout Adult Leader Training.
 
-17\. Inform the Scoutmaster of problems and successes of the patrol and
+17. Inform the Scoutmaster of problems and successes of the patrol and
 its leadership.
 
-18\. Preserve the authority of Scouts in the patrol, especially the
+18. Preserve the authority of Scouts in the patrol, especially the
 Patrol Leader, against the intrusions of adults not assigned to the
 patrol. Direct parents of Scouts in the patrol toward instructing Scouts
 that are not in the patrol.
 
-19\. Recruit parents of Patrol members to assist in organizing \"fun\"
+19. Recruit parents of Patrol members to assist in organizing "fun"
 patrol activities away from the Troop, aid you with record keeping, and
 to act as hall monitors at the Church and assuring that all Troop Scouts
 have gotten rides home when your patrol is the service patrol.
 
-20\. Attempt to maintain some uniformity of approach with other PASM\'s.
+20. Attempt to maintain some uniformity of approach with other PASM's.
 
 **The PASM job: On campouts**
 
-21\. Personally attend as many campouts as possible.
+21. Personally attend as many campouts as possible.
 
-22\. Maintain two deep leadership consistent with Youth Protection
+22. Maintain two deep leadership consistent with Youth Protection
 Training
 
-23\. Ensure that an PASM assigned to the patrol attends every campout
+23. Ensure that an PASM assigned to the patrol attends every campout
 and is present each night of the campout. If no PASM assigned to the
 patrol is available, recruit another PASM not committed to another
 patrol for that campout.
 
-24\. Require Patrol Leader to complete a duty roster in advance of all
+24. Require Patrol Leader to complete a duty roster in advance of all
 campouts, and provide you with a copy, with definite assignments of all
 patrol members attending.
 
-25\. Require Patrol Leader to post the duty roster at the campout and
+25. Require Patrol Leader to post the duty roster at the campout and
 assist her in assuring its implementation.
 
-26\. Ensure that an adult assigned to the patrol eats with the patrol on
+26. Ensure that an adult assigned to the patrol eats with the patrol on
 campouts.
 
-27\. Help make sure patrol members camp and tent together.
+27. Help make sure patrol members camp and tent together.
 
-28\. Encourage proper cooking and cleaning methods.
+28. Encourage proper cooking and cleaning methods.
 
-29\. Using Troop Guides and more‐senior Scouts, teach safe and efficient
+29. Using Troop Guides and more‐senior Scouts, teach safe and efficient
 patrol campsite setup.
 
 **\
@@ -1688,18 +1682,18 @@ patrol campsite setup.
 
 ## Patrol method
 
-*\"The patrol method is not a way to operate a Scout troop, it is the
-only way. Unless the patrol method is in operation, you don\'t really
-have a Scout troop.\" ---Robert S. S. Baden‐Powell*
+*"The patrol method is not a way to operate a Scout troop, it is the
+only way. Unless the patrol method is in operation, you don't really
+have a Scout troop." ---Robert S. S. Baden‐Powell*
 
-*\[See also \"Org Charts\" in this Handbook.\]*
+*\[See also "Org Charts" in this Handbook.\]*
 
-**Parents and Scouts alike should carefully read** the BSA\'s discussion
+**Parents and Scouts alike should carefully read** the BSA's discussion
 of the patrol method on the Web.
 
 A fundamental difference between Scouts and Cub Scouts is the greater
 responsibility given to the Scouts (vs their parents). The Troop is
-governed by a Patrol Leaders\' Council or \"PLC.\" The PLC comprises the
+governed by a Patrol Leaders' Council or "PLC." The PLC comprises the
 SPL, the Patrol Leaders from each patrol, troop guides, and certain
 other Troop officers, such as the Assistant Senior Patrol Leaders and
 Troop quartermasters.**\*** Guided by the Scoutmaster and Assistant
@@ -1708,16 +1702,16 @@ program planning conference. It then meets monthly, or more often if
 necessary, to fine‐tune the plans for upcoming events.
 
 (All Troop 54 parents are still encouraged and expected to be actively
-involved in the Troop. *Everyone\'s* help is needed, because a Scout‐led
+involved in the Troop. *Everyone's* help is needed, because a Scout‐led
 troop actually requires *more* work by adults. Volunteer opportunities
 and appropriate training exist to match the interest and available time
 of every adult.)
 
-Parents should also make an effort to meet their Scout\'s Patrol Leader
-and Troop Guides (if applicable) and the Troop\'s Senior Patrol Leader
-(\"SPL\").
+Parents should also make an effort to meet their Scout's Patrol Leader
+and Troop Guides (if applicable) and the Troop's Senior Patrol Leader
+("SPL").
 
-\* The PLC is sometimes known as the \"Greenbar,\" referring to the
+\* The PLC is sometimes known as the "Greenbar," referring to the
 green bars on the uniform sleeve patches worn by the SPL, assistant
 SPLs, Patrol Leaders, and Assistant Patrol Leaders.
 
@@ -1803,7 +1797,7 @@ the Chartered Organization Representative.
 **1. General scholarship philosophy.** Troop 54 will provide
 scholarships, in accordance with these guidelines, for Scouts with a
 genuine financial need, who could not participate in a particular event
-without the Troop\'s financial assistance.
+without the Troop's financial assistance.
 
 **2. Identifying scholarship candidates.** The Scoutmaster and PASMs
 should make a positive effort, for each weekend campout and each summer
@@ -1828,7 +1822,7 @@ provided for 50% of the cost of the event in question.
 be awarded for the cost of campsite fees, activity fees, and the like,
 along with the cost of transportation if applicable (for example,
 charter‐bus fees). (b) Grub fees for weekend campouts will normally not
-be eligible for scholarships (because the Scout\'s family likely would
+be eligible for scholarships (because the Scout's family likely would
 have to spend at least that much to feed the Scout anyway).
 
 **6. Summer‐camp scholarships.** Scouts will normally be considered for
@@ -1847,7 +1841,7 @@ Blue Ridge or Packard likely would qualify for a scholarship but Alaska
 probably would not.
 
 **7. Other means of paying for camps.** All Scouts are encouraged to
-participate in the Troop\'s fundraising opportunities, including the
+participate in the Troop's fundraising opportunities, including the
 sale of popcorn and Scout Fair tickets. Many of our Scouts have raised
 hundreds of dollars from these sales that they could apply toward the
 cost of summer camp.
@@ -1857,8 +1851,8 @@ for scholarships.
 
 **9. National Youth Leadership Training.**
 
-\(a\) Any Scout, regardless of financial need, who attends SHAC\'s
-one‐week National Youth Leadership Training course (\"NYLT\") shall be
+\(a\) Any Scout, regardless of financial need, who attends SHAC's
+one‐week National Youth Leadership Training course ("NYLT") shall be
 reimbursed by the Troop for the NYLT fee upon request, because of the
 benefit of NYLT to the Troop. Parents not having a financial need are
 encouraged to have their daughters apply for reimbursement anyway (to
@@ -1867,7 +1861,7 @@ make whatever donation to the Troop they feel is appropriate.
 
 \(b\) Scholarships to the National Advanced Youth Leadership Experience
 conducted at Philmont may be awarded on a case‐by‐case basis, taking
-into account the Scout\'s level of consistent participation in the Troop
+into account the Scout's level of consistent participation in the Troop
 and demonstrated Scout spirit.
 
 **10. Troop dues scholarships.** The Scholarship Committee may award
@@ -1878,14 +1872,14 @@ scholarships (including for Uniforms), consistent with prudent use of
 Troop funds, when it deems such awards to be in the best interests of
 the Troop.
 
-**12. Confidentiality.** A Scout\'s request for a scholarship, and the
-Scholarship Committee\'s consideration of and decision on the request,
+**12. Confidentiality.** A Scout's request for a scholarship, and the
+Scholarship Committee's consideration of and decision on the request,
 should not be disclosed to other Scouts, and should be disclosed to
 other adult leaders only on a need‐to‐know basis.
 
 **13. Leadership / service projects.** The PASM of a Scout who receives
 a scholarship should privately, informally, and tactfully encourage the
-Scout to \"do something extra\" for the Troop as a way of giving back.
+Scout to "do something extra" for the Troop as a way of giving back.
 This should not be done in a way that might discourage Scouts from
 seeking scholarship help.
 
@@ -1897,7 +1891,7 @@ itself.
 ## Scout Shop
 
 The nearest Scout Shop operated by the Sam Houston Area Council
-(\"SHAC\") is at 2225 North Loop West, on the southeast corner of the
+("SHAC") is at 2225 North Loop West, on the southeast corner of the
 North Loop (inside the loop) and East T.C. Jester. (Google Map)
 
 ## Scoutmaster and Assistant Scoutmasters
@@ -1906,8 +1900,8 @@ The Scoutmaster is the adult leader responsible for the image and
 program of the Troop. The Scoutmaster is appointed by the head of the
 chartered organization with input from the Troop Committee.
 
-The Scoutmaster\'s job is crucial, because the quality of the
-Scoutmaster\'s guidance will affect every youth and adult involved in
+The Scoutmaster's job is crucial, because the quality of the
+Scoutmaster's guidance will affect every youth and adult involved in
 the Troop.
 
 Assistant Scoutmasters are appointed by the Scoutmaster with the
@@ -1917,16 +1911,16 @@ Organization Representative.
 Per BSA policy, the Scoutmaster and all Assistant Scoutmasters must
 successfully complete the required BSA training for adult leaders.
 
-*See also the \"Patrol Assistant Scoutmasters (\'PASMs\')\" section of
+*See also the "Patrol Assistant Scoutmasters ('PASMs')" section of
 this Handbook.*
 
 ## Scoutmaster conferences
 
-A **\"Scoutmaster conference\"** is a scheduled meeting between a Scout
+A **"Scoutmaster conference"** is a scheduled meeting between a Scout
 with the Scoutmaster (or an Assistant Scoutmaster designated by the
-Scoutmaster) to review a Scout\'s participation in the Troop.
+Scoutmaster) to review a Scout's participation in the Troop.
 Scoutmaster conferences are required for rank advancement and are in the
-Scoutmaster\'s discretion for other reasons.
+Scoutmaster's discretion for other reasons.
 
 **Procedure:**
 
@@ -1937,7 +1931,7 @@ conferences.
 badge sash, if applicable.
 
 • **Scout, Tenderfoot, Second Class, and** **First Class rank:**
-Scoutmaster conferences are conducted by a PASM assigned to the Scout\'s
+Scoutmaster conferences are conducted by a PASM assigned to the Scout's
 patrol or the Scoutmaster.
 
 • **Star or Life rank:** The Scout should first review her preparation
@@ -1949,7 +1943,7 @@ other Assistant Scoutmaster.
 Eagle Advisor, then seek a conference with the Scoutmaster.
 
 • If the Scoutmaster agrees that the Scout has completed the advancement
-requirements, he/she will sign the Scout\'s Handbook in the place
+requirements, he/she will sign the Scout's Handbook in the place
 provided, and the **Scout** should then promptly seek a Board of Review
 
 ## Service projects
@@ -1963,7 +1957,7 @@ ranks by taking part in any the following:
 
 • Troop service projects;
 
-• Patrol good turns approved in advance by the Patrol Leaders\' Council
+• Patrol good turns approved in advance by the Patrol Leaders' Council
 to help qualify a patrol for the National Honor Patrol Award;
 
 • Eagle leadership service projects organized by Scouts who are working
@@ -1995,12 +1989,12 @@ Troop Committee.
 the age and experience eligibility requirements for the program.
 
 • Registration is sometimes limited in number, in which case it is
-\"first‐come, first‐served\" among Troop 54 Scouts who are eligible.
+"first‐come, first‐served" among Troop 54 Scouts who are eligible.
 
-**\"Merit badge\" camps**\
-The Troop schedules at least one summer camp at a \"residence\" camp
+**"Merit badge" camps**\
+The Troop schedules at least one summer camp at a "residence" camp
 geared toward First Class advancement and merit badge work. An example
-of such a camp is the Sam Houston Area Council\'s Camp Strake near Cold
+of such a camp is the Sam Houston Area Council's Camp Strake near Cold
 Spring in east Texas. **It is particularly important for new Scouts to
 attend a merit badge summer camp,** although Scout of any age can
 benefit. Excellent facilities are provided for difficult‐to‐obtain merit
@@ -2031,18 +2025,18 @@ camp may require new or additional medical forms.
 
 New and experienced adult leaders are always needed for summer camps.
 Merit badge camps are a wonderful opportunity for adults new to the
-Troop who have completed the required training to \"break-in\" by
+Troop who have completed the required training to "break-in" by
 spending a week camping with a portion of the Troop. Adult registration
 for summer camps works differently than for our Scouts. Adults who wish
 to attend summer camps with the Troop should be aware of the following:
 
-1\. All adults attending summer camp are required to complete adult
+1. All adults attending summer camp are required to complete adult
 leader training.
 
-2\. Selection of adult leaders for our summer‐camp programs is up to the
+2. Selection of adult leaders for our summer‐camp programs is up to the
 Scoutmaster, with the advice and consent of the Troop Committee Chair.
 
-3\. The Troop endeavors to find summer camp leaders that understand and
+3. The Troop endeavors to find summer camp leaders that understand and
 accept the responsibility of providing a safe environment for Scouts and
 can also guide a **Scout‐led** contingent; while being able to
 effectively respond to emergencies; and know the applicable BSA
@@ -2051,52 +2045,52 @@ must agree to demonstrate the principles of the Scout Oath and Law as
 they represent the Troop for our Scouts and many others at camp and
 during transit.
 
-4\. The Troop usually receives a limited number of slots for
+4. The Troop usually receives a limited number of slots for
 high‐adventure programs. We try to fill those slots with the maximum
 number of Scouts and the minimum number of qualified adults needed for a
 safe outing.
 
-5\. Payment of deposits is required for adults, as it is for Scouts.
+5. Payment of deposits is required for adults, as it is for Scouts.
 Payment of a deposit does **not** guarantee a slot for a particular
 adult (if the adult is not selected to participate, the Troop will
 refund the deposit).
 
-6\. Adult participation in summer camps is **not** first‐come,
+6. Adult participation in summer camps is **not** first‐come,
 first‐served; it is a privilege, not a right. Adult‐leader selection,
 especially for high‐adventure programs, takes into account such factors
 as the following:
 
-> a\. Completion of all training required to be an Assistant
+> a. Completion of all training required to be an Assistant
 > Scoutmaster;
 >
-> b\. Commitment to live and act in accordance with the Scout Oath and
-> Scout Law. Active and regular participation in the Troop\'s monthly
+> b. Commitment to live and act in accordance with the Scout Oath and
+> Scout Law. Active and regular participation in the Troop's monthly
 > camping program;
 >
-> d\. Any prior participation in Troop 54 summer camps;
+> d. Any prior participation in Troop 54 summer camps;
 >
-> e\. Demonstrated competence and training in skills desirable for the
+> e. Demonstrated competence and training in skills desirable for the
 > particular high adventure program, for example, Wilderness First Aid;
 > Leave No Trace; First Aid / CPR, BSA or American Red Cross Lifeguard;
 > whitewater canoeing;
 >
-> f\. Regular, successful prior experience as an Assistant Scoutmaster;
+> f. Regular, successful prior experience as an Assistant Scoutmaster;
 >
-> g\. Demonstrated success in working with our Scouts and promoting a
+> g. Demonstrated success in working with our Scouts and promoting a
 > Scout‐led outdoor experience by all Scouts (including their own
 > daughters);
 >
-> h\. Other needs of the Troop and of the particular program.
+> h. Other needs of the Troop and of the particular program.
 
-7\. In addition to the BSA required on‐line Youth Protection Training,
+7. In addition to the BSA required on‐line Youth Protection Training,
 some summer camps, such as all those in Texas, may require additional
 background-checks and/or in‐person YPT class.
 
-> a\. Per YPT requirements, the minimum number of qualified adult
+> a. Per YPT requirements, the minimum number of qualified adult
 > leaders needed for a safe outing is three; with at least one being a
 > female.
 >
-> b\. However, ideally, if the logistics can accommodate, Troop 54
+> b. However, ideally, if the logistics can accommodate, Troop 54
 > targets to maintain about five-to-one ratio of trained leaders to
 > scouts at summer camp outings.
 
@@ -2110,7 +2104,7 @@ Device policy, Uniform guidelines, Whom to contact, and all else.
 
 ## Troop Committee
 
-The Troop Committee could be thought of as the \"board of directors\" of
+The Troop Committee could be thought of as the "board of directors" of
 the Troop. Its main responsibilities are (i) supporting the Scoutmaster
 in delivering quality Troop programs, and (ii) handling Troop
 administration. The Chair of the Troop Committee serves as something
@@ -2118,9 +2112,9 @@ like a non‐executive chairperson of the board. He or she is appointed by
 the chartered organization with input from the Troop Committee. Troop 54
 expects to have a very active Troop Committee, essentially all of whom
 are parents and even grandparents of current Troop 54 Scouts. *All*
-Troop 54 Scouts\' parents are encouraged to participate in the Troop
+Troop 54 Scouts' parents are encouraged to participate in the Troop
 Committee. (Participating parents should register with the BSA as
-committee members.) See the MeritBadge.org \"Troop Committee\" Web page
+committee members.) See the MeritBadge.org "Troop Committee" Web page
 for a helpful discussion of the role of a troop committee and its
 various subcommittees and positions. You may also wish to take the Troop
 Committee Challenge online training.
@@ -2243,8 +2237,8 @@ with the Scout and/or Scout's parents
 
 Uniforms can be purchased at the Scout Shop. The Troop provides one
 embroidered Troop 54 neckerchief and one sew‐on name strip to each
-Scout; each additional neckerchief costs approximately \$25.00, while
-each additional name strip is \$10.00, subject to change.
+Scout; each additional neckerchief costs approximately $25.00, while
+each additional name strip is $10.00, subject to change.
 
 ## Troop 55
 
@@ -2400,7 +2394,7 @@ incremental costs associated with their participation.
                                     work effectively with Scouts, and that
                                     certifies the requirements are met
 
-  **Order of the      **OA**        Scouting\'s national honor society, the
+  **Order of the      **OA**        Scouting's national honor society, the
   Arrow**                           members of which have been chosen by their
                                     peers for their Scouting spirit & camping
                                     ability

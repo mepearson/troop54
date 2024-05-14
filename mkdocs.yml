@@ -21,7 +21,7 @@ theme:
     - navigation.sections
     - navigation.tabs
     - navigation.top
-  #   - navigation.path
+    - navigation.path
   #   - navigation.instant
   #   - navigation.instant.prefetch
   #   - navigation.instant.progress
@@ -78,8 +78,7 @@ markdown_extensions:
 # Page tree
 nav:
   - About Troop 54: 
-    - About: about.md
-    - Old Home Page: upcoming.md
+    - Old Home Page: about/upcoming.md
   - Youth Development:
     - Youth Leadership: leadership.md
     - Advancement: advancement.md
