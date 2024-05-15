@@ -56,8 +56,9 @@ plugins:
       tags_file: tags.md
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-
-
+  - privacy:
+      links_attr_map:
+        target: _blank
 
 # Additional configuration
 extra:
@@ -69,6 +70,9 @@ extra:
 markdown_extensions:
   - attr_list
   - def_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.tasklist:
       custom_checkbox: true
   - toc:
