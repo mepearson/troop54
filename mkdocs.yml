@@ -14,18 +14,18 @@ copyright: Troop 54, Houston, TX
 # Configuration
 theme:
   name: material
-  # custom_dir: overrides
+  custom_dir: overrides
   favicon: assets/branding/favicon.png
   logo: assets/branding/bsa-logo.svg
   features:
-    - navigation.sections
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.path
+    - navigation.indexes
   #   - navigation.instant
   #   - navigation.instant.prefetch
   #   - navigation.instant.progress
-  #   - navigation.top
     - toc.follow
     # - toc.integrate
   font:
@@ -48,6 +48,11 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode    
 
+extra_css:
+  - stylesheets/output.css
+
+extra_javascript:
+  - javascripts/extra.js  
 
 # Plugins
 plugins:
@@ -82,19 +87,20 @@ markdown_extensions:
 # Page tree
 nav:
   - About Troop 54: 
+    - about/index.md
+    - Activities - Overview: about/activities.md
+    - Contact Us: about/contact.md
+    - Directory / Rosters: about/directory.md
     - Old Home Page: about/upcoming.md
   - Youth Development:
-    - Youth Leadership: leadership.md
-    - Advancement: advancement.md
-    - First Class Trail: fct.md
+    - First Class Trail: development/fct.md
+    - Advancement: development/advancement.md
+    - Youth Leadership: development/leadership.md
   - Outdoors Program: 
     - Weekend Campouts: camping/weekend.md
     - Summer Camp: camping/summer.md
     - Gear List: camping/gearlist.md
   - Resources:
-    - Contact Us: contact.md
-    - Directory / Rosters: directory.md
-    - Activities - Overview: activities.md
     - Joining Troop 54: joining.md
     - Troop Handbook: Troop54-handbook.md
     - Troop Committee: committee.md

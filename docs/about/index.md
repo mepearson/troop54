@@ -8,7 +8,7 @@ This is a girl-led troop!  We emphasize the patrol method.  We expect that a lar
 ### 2.  Outdoors program
 We go camping on a regular basis.  Our weekend campouts have a variety of activities including backpacking, shooting sports, canoeing & kayaking, and climbing.  We sponsor a wide range of summer camping experiences including backpacking throughout North America.
 ### 3.  Advancement program
-Our First Class Trail program runs continuously and is designed for girls to join the troop at any point in the year.  We typically offer 20-30 merit badge classes each year, plus district merit badge fairs and badges at summer camps.  We provide support and encouragement for of our scouts to earn the rank of Eagle. [More Information on Advancement](advancement.md)
+Our First Class Trail program runs continuously and is designed for girls to join the troop at any point in the year.  We typically offer 20-30 merit badge classes each year, plus district merit badge fairs and badges at summer camps.  We provide support and encouragement for of our scouts to earn the rank of Eagle. [More Information on Advancement](../development/advancement.md)
 ### 4.  Service to others
 We believe that young people develop a "spirit of service" through being regularly involved in helping others.  Whether it's helping with an Eagle project, participating in T-54 sponsored community service projects, or just assisting each other in outdoor activities, our scouts are developing life-long habits of service to others.
 
